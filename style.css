@@ -1,0 +1,37 @@
+form {
+  width: 70%;
+  background-color: rgb(195, 245, 243);
+}
+
+table {
+  width: 100%;
+  border: 0px;
+}
+.head-table {
+  border: 5px solid;
+  text-align: left;
+}
+
+.text {
+  color: rgb(35, 34, 34);
+  font-size: 30px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.text-2 {
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.img {
+  width: 25px;
+  height: 25px;
+}
+
+.liste {
+  list-style: none;
+  text-align: center;
+}
